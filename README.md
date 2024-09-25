@@ -2,8 +2,7 @@
 
 ### 📱 Meu perfil no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dos-reis-bino-machado-668820308/)
 
-### _📓 Meu currículo:_ 
-_https://drive.google.com/file/d/1LelziPeuVj1lYO-mg8qcGWXv3Yx_V8CR/view?usp=drive_link_
+### _📓 Meu currículo:_ _[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LelziPeuVj1lYO-mg8qcGWXv3Yx_V8CR/view?usp=drive_link)_
 
 ### _👨‍💻 Informações sobre mim:_
 _Sou um jovem de 19 anos de idade que estuda programação diariamente. Sou fascinado pelo mundo da tecnologia, em especial pelo desenvolvimento de sistemas, inteligência artificial, veículos e eletrônicos inteligentes._    
@@ -19,7 +18,7 @@ _Pretendo me aprofundar em Java, sendo capaz de resolver problemas complexos e d
 
 ### 💻 Minhas competências e tecnologias em aprendizado: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌓 IDE's atuais: ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 🌓 IDE's atuais: ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeDevBino&show_icons=true&theme=dark)
 
