@@ -2,7 +2,8 @@
 
 ### 📱 Meu perfil no LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dos-reis-bino-machado-668820308/)
 
-### _📓 Meu currículo:_ _[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LelziPeuVj1lYO-mg8qcGWXv3Yx_V8CR/view?usp=drive_link)_
+### _📓 Meu currículo:_ 
+_https://docs.google.com/document/d/1Fa9BaffBBL1kUEqRkFEfd3fiGz91ICXP5gdds2L5Dvs/edit?usp=drive_link_
 
 ### _👨‍💻 Informações sobre mim:_
 _Sou um jovem de 19 anos de idade que estuda programação diariamente. Sou fascinado pelo mundo da tecnologia, em especial pelo desenvolvimento de sistemas, inteligência artificial, veículos e eletrônicos inteligentes._    
