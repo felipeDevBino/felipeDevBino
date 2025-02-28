@@ -17,7 +17,7 @@ _Atualmente, também concentro meus estudos em obter conhecimentos e prática so
 
 _Pretendo me aprofundar em Java, sendo capaz de resolver problemas complexos e desenvolver minhas aplicações com mais rapidez e eficácia, criando soluções interessantes não somente para mim, mas também para quem necessitar. Pretendo aprender sobre frameworks para Java, como Spring Boot e Spring Data, e tecnologias para desenvolvimento web, como HTML e CSS._
 
-### 💻 Minhas competências e tecnologias em aprendizado: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+### 💻 Minhas competências e tecnologias em aprendizado: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring/SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
 ### 🌓 IDE's atuais: ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
