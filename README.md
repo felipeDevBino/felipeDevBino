@@ -6,7 +6,7 @@
 _https://docs.google.com/document/d/1Fa9BaffBBL1kUEqRkFEfd3fiGz91ICXP5gdds2L5Dvs/edit?usp=drive_link_
 
 ### _👨‍💻 Informações sobre mim:_
-_Sou um jovem de 20 anos de idade que estuda programação diariamente. Sou fascinado pelo mundo da tecnologia, em especial pelo desenvolvimento de sistemas, inteligência artificial, veículos e eletrônicos inteligentes._    
+_Sou um jovem de 21 anos de idade que estuda programação diariamente. Sou fascinado pelo mundo da tecnologia, em especial pelo desenvolvimento de sistemas, inteligência artificial, veículos e eletrônicos inteligentes._    
 
 _Tenho metas realistas de aprendizado, onde foco em resolver problemas de formas variadas, visando o aprimoramento contínuo. Busco seguir boas práticas tanto em código, escrita e commits, mantendo uma rotina de estudos consistente, onde desenvolvo meus projetos atuais. Atualmente, estou trabalhando em um sistema de orçamentos pessoal (https://github.com/felipeDevBino/SistemaDeOrcamentos) e em um projeto para produtividade pessoal que colabora para a resolução de atividades (https://github.com/felipeDevBino/ProdutividadePessoal_App), com a intenção de aprimorar diversos conhecimentos acerca da linguagem Java e de seus componentes, como manipulação de arquivos e programação orientada a objetos (POO)._ 
 
