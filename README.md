@@ -21,7 +21,7 @@ _Pretendo me aprofundar em Java, sendo capaz de resolver problemas complexos e d
 
 ### 🌓 IDE's atuais: ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeDevBino&show_icons=true&theme=dark)
+
 
 
 
